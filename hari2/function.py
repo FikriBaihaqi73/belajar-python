@@ -1,6 +1,3 @@
-from math import pi
-
-
 def hello():
     print("kode dari function")
 
