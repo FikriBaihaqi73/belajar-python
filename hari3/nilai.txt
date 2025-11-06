@@ -1,0 +1,5 @@
+fikri,80
+budi,20
+asep,50
+fiony,85
+christy,90
